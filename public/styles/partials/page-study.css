@@ -161,6 +161,7 @@
     .teacher-item footer {
         padding: 32px;
     }
+    
     #search-teachers {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
@@ -179,7 +180,7 @@
         margin-bottom: 0;
     }
 
-    .teacher-item > p{
+    .teacher-item > p {
         padding: 0 32px;
     }
 
